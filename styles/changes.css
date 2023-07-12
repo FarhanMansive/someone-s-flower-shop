@@ -1,0 +1,37 @@
+.firstword {
+    width: 708px;
+    font-family: 'Sacramento', cursive;
+    font-size: 80px;
+    font-weight: 800;
+    color: #272727;
+
+}
+.secondword {
+    font-family: 'Sacramento', cursive;
+    font-size: 30px;
+}
+.boton {
+padding: 10px 20px;
+align-items: flex-start;
+gap: 10px;
+border-radius: 8px;
+background: #E55473;
+color: #FFF;
+font-size: 20px;
+font-weight: 500;
+line-height: 24px;
+width: 177px;
+height: 64px;
+border: 0;
+
+
+}
+.header {
+    background: rgba(229, 84, 115, 0.10);
+    height: 900px;
+}
+.banner {
+    justify-content: space-between;
+    align-items:center ;
+    padding: 150px 
+}
