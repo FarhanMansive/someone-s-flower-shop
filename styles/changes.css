@@ -9,6 +9,7 @@
 .secondword {
     font-family: 'Sacramento', cursive;
     font-size: 30px;
+    
 }
 .boton {
 padding: 10px 20px;
@@ -31,7 +32,15 @@ border: 0;
     height: 900px;
 }
 .banner {
+    display: flex;
     justify-content: space-between;
     align-items:center ;
-    padding: 150px 
+    padding: 10px 372px 365px 240px
+    
+
+}
+.firstflower {
+    width: 635px;
+    height: 780px;
+    padding: 70px;
 }
