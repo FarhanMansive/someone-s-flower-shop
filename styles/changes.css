@@ -48,9 +48,8 @@ border: 0;
     padding: 70px;
 }
 /* main sec */
-.main{
+.mon{
     margin: 0 auto;
-    max-width: 1140px;
     background-color: #FFF;
 }
 .about {
@@ -69,6 +68,13 @@ border: 0;
     flex-shrink: 0;
     border-radius: 300px 300px 0px 0px;
     background: rgba(167, 33, 98, 0.15);
+    
+}
+.secof{
+    width: 310px;
+height: 400px;
+flex-shrink: 0;
+padding-top: 138px;
 }
 .div2{
     width: 464px;
@@ -77,6 +83,12 @@ border: 0;
     border-radius: 300px 300px 0px 0px;
     background: rgba(5, 151, 160, 0.15);
 }
+.secof2{
+    width: 310px;
+    height: 400px;
+    flex-shrink: 0;
+    padding-top: 138px;
+}
 .div3 {
     width: 464px;
     height: 538px;
@@ -84,8 +96,97 @@ border: 0;
     border-radius: 300px 300px 0px 0px;
     background: rgba(71, 125, 17, 0.15);
 }
+.secof3{  width: 310px;
+    height: 400px;
+    flex-shrink: 0;
+    padding-top: 138px;}
+    .spon{
+        text-decoration: underline;
+    }
 .bigdiv {
     display: flex;
     justify-content: space-around;
     
 }
+.secondsec {
+    background: rgba(39, 39, 39, 0.05);
+    display: flex;
+    justify-content: space-around;
+    margin: 130px auto;
+    width: 1720px;
+}
+    
+    
+    .service{    
+        display: flex;
+        justify-content:space-between;
+        border-radius: 8px;
+        flex-shrink: 0;
+        align-items:center ;
+        text-align: center;
+        height: 320px;
+        
+    }
+
+    
+    .service1{ padding-right: 350px;
+    }
+    .service2{
+        padding-right:330px ;
+
+    }
+    .banner2 {
+        width: 1922px;
+        height: 620px;
+      flex-shrink: 0;
+      border-radius: 8px;
+      background: rgba(229, 84, 115, 0.05);
+      display: flex;
+      justify-content: space-between;
+      align-items:center ;
+      text-align: center;
+
+
+    }
+    .hot{
+        color: #272727;
+        font-family: 'Sacramento', cursive;
+        font-size: 40px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: normal;
+    }
+    .secondword2{
+        display: flex;
+width: 594px;
+flex-direction: column;
+flex-shrink: 0;
+color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family:'Sacramento', cursive;;
+font-size: 30px;
+font-style: normal;
+font-weight: 800;
+line-height: 30px;
+    }
+    .boton2{
+        padding: 10px 20px;
+align-items: flex-start;
+gap: 10px;
+border-radius: 8px;
+background: #E55473;
+color: #FFF;
+font-size: 20px;
+font-weight: 500;
+line-height: 24px;
+width: 177px;
+height: 64px;
+border: 0;
+    }
+    .ban2{
+padding-left: 350px;
+    }
+    .floww{
+        margin-left: px;
+        margin-bottom: 0px;
+    }
