@@ -59,7 +59,7 @@ border: 0;
      
 }
 .feter {
-    font-size: 40px;
+    font-size: 50px;
     font-weight: 800;
     padding-top: 80px;
 }
@@ -107,13 +107,14 @@ padding-top: 138px;
 .bigdiv {
     display: flex;
     justify-content: space-around;
+    padding-top: 30px;
     
 }
 .secondsec {
     background: rgba(39, 39, 39, 0.05);
     display: flex;
     justify-content: space-around;
-    margin: 130px auto;
+    margin: 200px auto;
     width: 1720px;
 }
     
@@ -164,6 +165,8 @@ padding-top: 138px;
         font-weight: 900;
         line-height: normal;
     }
+    .red {color: #E55473;
+    }
     .secondword2{
         display: flex;
 width: 594px;
@@ -199,3 +202,34 @@ padding-left: 350px;
         margin-bottom: 0px;
         display: block;
     }
+
+    .insta{
+        text-align: center;
+        font-family: 'Sacramento', cursive;
+        padding-top: 100px ;
+    }
+
+    .in{
+        font-family: 'Sacramento', cursive;
+        font-size: 50px;
+        font-weight: 800;
+        color: #272727;
+    }
+    .midiv{
+        display: flex;
+        justify-content: space-around;
+        padding-top: 20px;
+    }
+
+/** Upcoming **/
+
+.upcoming {
+    text-align: center;
+    font-family: 'Sacramento', cursive;
+    padding-top: 100px ;
+}
+.david{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
