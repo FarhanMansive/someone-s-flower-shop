@@ -43,9 +43,10 @@ border: 0;
 
 }
 .firstflower {
+    display: block;
     width: 635px;
     height: 800px;
-    padding: 70px;
+    padding-top: 90px;
 }
 /* main sec */
 .mon{
@@ -129,11 +130,18 @@ padding-top: 138px;
     }
 
     
-    .service1{ padding-right: 350px;
+    .service1{ 
+        display: block;
+        padding-right: 400px;
     }
     .service2{
-        padding-right:330px ;
+     display: block;
+     padding-right: 400px;
 
+
+    }
+    .service3{
+        display: block;
     }
     .banner2 {
         width: 1922px;
@@ -187,6 +195,7 @@ border: 0;
 padding-left: 350px;
     }
     .floww{
-        margin-left: px;
+        margin-right: 500px;
         margin-bottom: 0px;
+        display: block;
     }
